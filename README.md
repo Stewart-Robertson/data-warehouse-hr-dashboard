@@ -1,2 +1,6 @@
 # hr-dashboard-data-warehouse
 Creating a data warehouse, connecting to it in Tableau, and building a dashboard
+
+<img width="1189" alt="Stewart Robertson Dashboard" src="https://github.com/user-attachments/assets/9bef3dcd-747c-4253-b814-68f215acf4cf" />
+
+https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white
