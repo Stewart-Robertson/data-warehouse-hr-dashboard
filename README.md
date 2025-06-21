@@ -1,5 +1,5 @@
 # hr-dashboard-data-warehouse
-Creating a data warehouse, connecting to it in Tableau, and building a dashboard
+Creating a Snowflake data warehouse with AWS S3 storage integration, connecting to it in Tableau, and building a dashboard
 
 ![FInal Dashboard](https://github.com/user-attachments/assets/cfc5cf15-c874-4a71-968c-0857bf1fc5e9)
 
